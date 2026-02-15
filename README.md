@@ -24,7 +24,11 @@ Each project demonstrates:
 ## Projects
 
 ### 1. Windows Brute Force Detection using Wazuh SIEM
-Simulated RDP brute-force attack and detected failed login attempts (Event ID 4625) using Wazuh.
+Simulated brute-force authentication attack and detected it using Wazuh SIEM.
+
+- Event ID: 4625
+- MITRE: T1110 – Brute Force
+- Includes SOC-style incident report
 
 Folder: `01-bruteforce-detection`
 
@@ -35,3 +39,4 @@ More projects coming soon:
 - Network Intrusion Detection
 - Cloud Account Breach Detection
 - Web Attack Detection via SIEM
+
