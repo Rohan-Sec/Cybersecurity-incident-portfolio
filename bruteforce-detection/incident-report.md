@@ -29,7 +29,7 @@ The detection was performed using Wazuh SIEM.
 | Time | Event |
 |------|-------|
 | 20:33 | First failed login detected |
-| 20:34:08.643 - 20:34:09 | Multiple failed login attempts |
+| 20:34:08 - 20:34:09 | Multiple failed login attempts |
 | 20:34 | Detection confirmed in Wazuh |
 
 ---
