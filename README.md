@@ -30,7 +30,7 @@ Simulated brute-force authentication attack and detected it using Wazuh SIEM.
 - MITRE: T1110 – Brute Force
 - Includes SOC-style incident report
 
-Folder: `01-bruteforce-detection`
+Folder: `bruteforce-detection`
 
 ---
 
